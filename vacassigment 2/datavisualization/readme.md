@@ -21,10 +21,11 @@ To use this project, follow these steps:
 5. The visualizations include bar graphs, density plots, box plots, and pie charts to understand the data distribution.
 
 
-![Rplot](https://user-images.githubusercontent.com/114388722/220673543-0f5a67eb-0186-4785-941a-91b51492351d.png)
-![Rplot01](https://user-images.githubusercontent.com/114388722/220673631-72259f48-b3ef-4b32-b692-b68b95222a41.png)
-![Rplot02](https://user-images.githubusercontent.com/114388722/220673639-4a282891-4f7a-45cc-9379-42d7e36c5afd.png)
-![Rplot03](https://user-images.githubusercontent.com/114388722/220673650-f9ae75fd-b87a-4ecb-8e54-ed2413460a7b.png)
-![Rplot04](https://user-images.githubusercontent.com/114388722/220673659-09cdb5f5-85c6-4e46-a0e6-0fd93e605a77.png)
-![Rplot05](https://user-images.githubusercontent.com/114388722/220673666-6467fbc9-ffd9-4004-b64a-c89016542406.png)
-![Rplot06](https://user-images.githubusercontent.com/114388722/220673669-0e940b8d-271d-4234-a273-c997eabb14cb.png)
+![HR PLOT 1](https://user-images.githubusercontent.com/114471559/221926608-fcd6c62a-5fee-4ac4-91a1-f30f9836fac2.jpeg)
+![HR PLOT 2](https://user-images.githubusercontent.com/114471559/221926775-f2009881-ea8a-4d81-8997-53941913828a.jpeg)
+![HR PLOT 3](https://user-images.githubusercontent.com/114471559/221926823-87db8e95-d697-4336-becd-ac58e4f28d0d.jpeg)
+![HR PLOT 4](https://user-images.githubusercontent.com/114471559/221926879-1991b160-0aa9-4820-b883-24c27bc0f9b2.jpeg)
+![HR PLOT 5](https://user-images.githubusercontent.com/114471559/221926936-e3ac6422-3f87-415f-9608-f3b0bd569fa6.jpeg)
+![HR PLOT 6](https://user-images.githubusercontent.com/114471559/221926981-899fbb16-554e-446f-b6b0-a15201ae6e4e.jpeg)
+![HR PLOT 7](https://user-images.githubusercontent.com/114471559/221926387-3050a9af-e3a5-4af9-bb9c-684f1256db05.jpeg)
+
