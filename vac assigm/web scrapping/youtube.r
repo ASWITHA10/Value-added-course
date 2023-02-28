@@ -20,6 +20,6 @@ View(subs)
 youtube <- data.frame(rank,channel,subs)
 View(youtube)
 #save
-write.csv(youtube,"top_subs.csv")
+write.csv(youtube,"youtube.csv")
 
 in
